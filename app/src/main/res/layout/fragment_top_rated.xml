@@ -1,0 +1,160 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+        android:layout_weight="0.6"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/button1"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/a"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=5JT4fgL1u6M"
+            />
+
+        <ImageButton
+            android:id="@+id/button2"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/b"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=B-JNegmYHeI"
+            />
+
+        <ImageButton
+            android:id="@+id/button3"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/c"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=DZQuk1qn4_0"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+        android:layout_weight="0.6"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/button4"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/d"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=fW6pb6RAJew"
+            />
+
+        <ImageButton
+            android:id="@+id/button5"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/e"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=Mu1zDIsHNFU"
+            />
+
+        <ImageButton
+            android:id="@+id/button6"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/f"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=oW43gIw9jz8"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+        android:layout_weight="0.6"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/button7"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/g"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=q-cjqzVktM0"
+            />
+
+        <ImageButton
+            android:id="@+id/button8"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/h"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=QoqEVRxeCOc"
+            />
+
+        <ImageButton
+            android:id="@+id/button9"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/i"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=s5k1OVVQhJ0"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+        android:layout_weight="0.6"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/button10"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/k"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=tkT_5fo8Rww"
+            />
+
+        <ImageButton
+            android:id="@+id/button11"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/l"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=WF9SbXE26bE"
+            />
+
+        <ImageButton
+            android:id="@+id/button12"
+            android:layout_width="0px"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/m"
+            android:onClick="play" android:tag="http://www.youtube.com/watch?v=x82UsZchchU"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical"-->
+    <!--android:background="#fa6a6a" >-->
+
+    <!--<TextView android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center"-->
+        <!--android:text="Design Top Rated Screen"-->
+        <!--android:textSize="20dp"-->
+        <!--android:layout_centerInParent="true"/>-->
+
+
+<!--</RelativeLayout>-->
